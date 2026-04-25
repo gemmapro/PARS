@@ -1,0 +1,8 @@
+﻿{
+  "appId": "com.sobayonetim.app",
+  "appName": "Parspel",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
