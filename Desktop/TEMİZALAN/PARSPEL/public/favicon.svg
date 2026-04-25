@@ -1,0 +1,11 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="36" fill="#0f172a"/>
+  <rect x="8" y="8" width="164" height="164" rx="30" fill="url(#grad)"/>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="180" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ff5722"/>
+      <stop offset="100%" stop-color="#ff8a65"/>
+    </linearGradient>
+  </defs>
+  <text x="90" y="108" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-weight="900" font-size="52" fill="white" letter-spacing="-2">PP</text>
+</svg>
